@@ -1,0 +1,29 @@
+{
+    "packageId": "money.peekin.app",
+    "host": "peekin.money",
+    "name": "PeekIn",
+    "launcherName": "PeekIn",
+    "display": "standalone",
+    "themeColor": "#FFFFFF",
+    "navigationColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF",
+    "startUrl": "/",
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+    "maskableIconUrl": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+    "appVersion": "1.0.0",
+    "appVersionCode": 1,
+    "generatorApp": "bubblewrap-cli",
+    "webManifestUrl": "https://peekin.money/manifest.json",
+    "fallbackType": "customtabs",
+    "features": {},
+    "alphaDependencies": {
+      "com.google.androidbrowserhelper:androidbrowserhelper": "2.5.0"
+    },
+    "enableNotifications": false,
+    "shortcuts": [],
+    "splashScreenFadeOutDuration": 300,
+    "signingKey": {
+      "path": "./android.keystore",
+      "alias": "android"
+    }
+  }

@@ -1,0 +1,15 @@
+{
+    "short_name": "PeekIn",
+    "name": "PeekIn: Future Finance",
+    "start_url": "https://peekin.money",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
